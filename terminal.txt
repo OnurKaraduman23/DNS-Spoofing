@@ -1,0 +1,4 @@
+service apache2 start
+/var/www/html/index.html
+/etc/ettercap/etter.dns
+ettercap -G
